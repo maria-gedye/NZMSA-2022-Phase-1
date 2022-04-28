@@ -63,7 +63,7 @@ We have also created small modular workshops for each section of MS Learn. **The
 ### Checklist :white_check_mark:
 
 - [ ] Week 1 (15 APR - 21 APR)
-  - [ ] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
+  - [X] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
   - [X] [1. Git Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/1.%20Git%20workshop)
   - [ ] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/)
 - [ ] Week 2 (22 APR - 28 APR)
